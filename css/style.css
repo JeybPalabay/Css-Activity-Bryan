@@ -46,3 +46,19 @@ body {
 }
 
 
+.profile-picture {
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding-left: 250px;
+    padding-right: 250px;
+      
+  }
+
+  .bio {
+    padding-bottom:70px;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+  
