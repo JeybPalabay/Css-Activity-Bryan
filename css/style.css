@@ -61,4 +61,27 @@ body {
     font-family: sans-serif;
     font-size: 14px;
   }
+  .social-link {  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 20;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 134, 218);
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
   
+  .social-link:hover {
+    color:white;
+    background-color: rgb(1, 116, 188);
+  }
+  
+  .social-icon {
+    width: 20px;
+    height: 20px;
+    
+  }
+    
