@@ -1,0 +1,48 @@
+body {
+    background-color: lightgrey;
+}
+    
+@font-face {
+    font-family: 'Gasalt-Black';
+    src: url('../fonts/Gasalt-Black.ttf');
+  
+  }
+  
+  @font-face {
+    font-family: 'Gasalt-Regular';
+    src: url('../fonts/Gasalt-Regular.ttf');
+    
+  }
+  
+  @font-face {
+    font-family: 'Gasalt-Thin';
+    src: url('../fonts/Gasalt-Thin.ttf');
+    
+  }
+
+
+.container {
+  width: 740px; 
+  height: 400px;
+
+  text-align: center;
+  padding: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;    
+}
+
+
+.name {
+  font-family: 'Gasalt';
+  text-transform: uppercase;
+  font-size: 34px;
+  font-weight: 900;
+
+}
+
+
